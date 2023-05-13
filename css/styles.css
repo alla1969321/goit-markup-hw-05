@@ -715,7 +715,9 @@ margin-bottom: 0;
       }
   .lol{ fill: #f4f4fd ;   }
    .company-lol{ fill: currentColor;}
-   
+   .lol-icon{
+    
+   }
  .section-title-people{
    display: flex;
    flex-wrap: wrap;
