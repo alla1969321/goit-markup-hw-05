@@ -225,7 +225,8 @@ body {
  .menu-link:focus {
    color: var(--Pressed-State-OCEAN);
  }
-
+ .menu-link:hover::after {
+  transform: scale(1);}
   .menu-link::after {
     content: '';
     display: block;
