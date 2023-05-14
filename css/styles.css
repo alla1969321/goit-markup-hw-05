@@ -1565,6 +1565,7 @@ color:#FFFFFF ;
      cursor: pointer;
     transition: background-color var(--transition), border var(--transition);
   }
+ 
   
   .modal-close-btn:hover,
   .modal-close-btn:focus {
