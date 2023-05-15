@@ -173,10 +173,21 @@ img {
     letter-spacing: 0.02em;
     font-size: 16px;
     line-height: 1.5;
-  
+    
         transition: color var(--transition);
    }
   
+.contacts-link{
+  display: block;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+ 
 }
 
 .menu-link:hover,
